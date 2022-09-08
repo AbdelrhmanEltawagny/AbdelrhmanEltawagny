@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Samir Eltawagny</h1>
 <h3 align="center">A Data Analyst from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhmaneltawagny&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhmaneltawagny" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhmaneltawagny" alt="abdelrhmaneltawagny" /></a> </p>
+https://i0.wp.com/camo.envatousercontent.com/90bae063b0cc76048b6daeac133323ebfffc7b91/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7652484c32686a72764b71614553384972482f67697068792e676966
 
 - 🌱 I’m currently learning **SQL**
 
@@ -12,10 +9,6 @@
 - 📝 I regularly write articles on [https://medium.com/@abdo.samir2765](https://medium.com/@abdo.samir2765)
 
 - 📫 How to reach me **abdo.samir2765@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
