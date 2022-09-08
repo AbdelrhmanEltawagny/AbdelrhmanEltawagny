@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Samir Eltawagny</h1>
 <h3 align="center">A Data Analyst from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcRhlDrVzVUUou_SL6JysO9Wvh4nqjgOOY5VHCIxgvEJXnDAYJfTxPZ7KxllzlkypJ_zo&usqp=CAU")
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif)
 
 - 🌱 I’m currently learning **SQL**
 
